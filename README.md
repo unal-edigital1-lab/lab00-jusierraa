@@ -5,3 +5,5 @@ En esta plantilla debe adicionar la documentación del laboratorio
 
 * Juan Camilo Sierra Alean
 
+Laboratorio de prueba.
+
