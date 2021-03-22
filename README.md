@@ -54,3 +54,4 @@ module sum1bcc (A, B, Ci,Cout,S);
   
 endmodule
 
+Luego de hacer esto observamos que la simulación muestre los valores esperados lo cual es así en este caso.
