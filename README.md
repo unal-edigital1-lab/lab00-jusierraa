@@ -11,6 +11,7 @@ Para iniciar se realizó la instalación de Quartus, luego se intalói también 
 Luego se entendieron los siguientes codigos:
 
 1)
+sum1bitcod
 module sum1bcc_primitive (A, B, Ci,Cout,S);
 
   input  A;            /Se declarán las entradas y salidas del sumador    
@@ -55,3 +56,8 @@ module sum1bcc (A, B, Ci,Cout,S);
 endmodule
 
 Luego de hacer esto observamos que la simulación muestre los valores esperados lo cual es así en este caso.
+
+
+
+
+
