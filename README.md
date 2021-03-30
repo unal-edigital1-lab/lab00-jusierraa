@@ -57,14 +57,16 @@ module sum1bcc (A, B, Ci,Cout,S);
   
 endmodule
 
+Se realiza la simulación TestBench de cada sumador para verificar que todo este funcionando bien.
+![Imagen 5](https://github.com/unal-edigital1-lab/lab00-jusierraa/blob/master/sum4bit_TBcod.JPG)
+
 Luego de hacer esto observamos que la simulación muestre los valores esperados lo cual es así en este caso.
 
 ![Imagen 3](https://github.com/unal-edigital1-lab/lab00-jusierraa/blob/master/sum4bits.JPG)
 
 ![Imagen 4](https://github.com/unal-edigital1-lab/lab00-jusierraa/blob/master/sum4bits2.JPG)
 
-Se realiza la simulación TestBench de cada sumador para verificar que todo este funcionando bien.
-![Imagen 5](https://github.com/unal-edigital1-lab/lab00-jusierraa/blob/master/sum4bit_TBcod.JPG)
+
 
 
  se realizan entonces diferentes cambios de nivel logico en cierto tiempo, con esto nos podemos cerciorar que cada sumador este funcionando bien, desde el sumador de 2 bits hasta el de 4 bits.
