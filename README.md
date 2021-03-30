@@ -11,7 +11,8 @@ Para iniciar se realizó la instalación de Quartus, luego se intalói también 
 Luego se entendieron los siguientes codigos:
 
 1)
-sum1bitcod
+
+https://github.com/unal-edigital1-lab/lab00-jusierraa/blob/master/sum1bitcod.JPG
 module sum1bcc_primitive (A, B, Ci,Cout,S);
 
   input  A;            /Se declarán las entradas y salidas del sumador    
@@ -36,6 +37,7 @@ module sum1bcc_primitive (A, B, Ci,Cout,S);
 endmodule
 
 2)
+https://github.com/unal-edigital1-lab/lab00-jusierraa/blob/master/sum1bitcod.JPG
 module sum1bcc (A, B, Ci,Cout,S);
 
   input  A;              /Se declarán las entradas y salidas del sumador           
@@ -57,8 +59,15 @@ endmodule
 
 Luego de hacer esto observamos que la simulación muestre los valores esperados lo cual es así en este caso.
 
+https://github.com/unal-edigital1-lab/lab00-jusierraa/blob/master/sum4bits.JPG
 
-Se realiza la simulación TestBench de cada sumador para verificar que todo este funcionando bien, se realizan entonces diferentes cambios de nivel logico en cierto tiempo, con esto nos podemos cerciorar que cada sumador este funcionando bien, desde el sumador de 2 bits hasta el de 4 bits.
+https://github.com/unal-edigital1-lab/lab00-jusierraa/blob/master/sum4bits2.JPG
+
+Se realiza la simulación TestBench de cada sumador para verificar que todo este funcionando bien.
+https://github.com/unal-edigital1-lab/lab00-jusierraa/blob/master/sum4bit_TBcod.JPG
+
+
+ se realizan entonces diferentes cambios de nivel logico en cierto tiempo, con esto nos podemos cerciorar que cada sumador este funcionando bien, desde el sumador de 2 bits hasta el de 4 bits.
 
 
 
