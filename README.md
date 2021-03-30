@@ -58,6 +58,9 @@ endmodule
 Luego de hacer esto observamos que la simulación muestre los valores esperados lo cual es así en este caso.
 
 
+Se realiza la simulación TestBench de cada sumador para verificar que todo este funcionando bien, se realizan entonces diferentes cambios de nivel logico en cierto tiempo, con esto nos podemos cerciorar que cada sumador este funcionando bien, desde el sumador de 2 bits hasta el de 4 bits.
+
+
 
 
 
