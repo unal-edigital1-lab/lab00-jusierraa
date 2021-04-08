@@ -70,8 +70,11 @@ Luego de hacer esto observamos que la simulación muestre los valores esperados 
 
 
  se realizan entonces diferentes cambios de nivel logico en cierto tiempo, con esto nos podemos cerciorar que cada sumador este funcionando bien, desde el sumador de 2 bits hasta el de 4 bits.
+Ahora se procede a subir el codigo a la FPGA y comprobar que funciona
 
 
+![Imagen 5](https://github.com/unal-edigital1-lab/lab00-jusierraa/blob/master/Sum4bitfpga2.JPG)
 
+![Imagen 6](https://github.com/unal-edigital1-lab/lab00-jusierraa/blob/master/Sum4bitfpga1.JPG)
 
 
